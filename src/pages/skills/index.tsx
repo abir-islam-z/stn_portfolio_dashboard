@@ -16,7 +16,6 @@ import { getIconComponent } from "@/lib/getIconComponent";
 import {
   Skill,
   useDeleteSkillTechnologyMutation,
-  useGetSkillsCategoriesQuery,
   useGetSkillsTechnologiesQuery,
 } from "@/redux/features/skillApi";
 import { ColumnDef, Row } from "@tanstack/react-table";
@@ -122,7 +121,7 @@ const ActionComp = ({ row }: { row: Row<Skill> }) => {
 
 export default function SkillsPage() {
   const { data: skills, isLoading, isError } = useGetSkillsTechnologiesQuery();
-  const { data: categories } = useGetSkillsCategoriesQuery();
+  // const { data: categories } = useGetSkillsCategoriesQuery();
 
   return (
     <div className="space-y-6">
