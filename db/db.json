@@ -1,0 +1,830 @@
+{
+  "profile": {
+    "name": "Abir Islam Edir",
+    "title": "Software Engineer and AI Enthusiast",
+    "experience": "3+ Years Experience",
+    "resumeFile": "https://linkedin.com",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.comd"
+  },
+  "about": {
+    "item": {
+      "item": {
+        "item": {
+          "item": {
+            "description": "I'm a passionate software engineer with a love for cyberpunk aesthetics and futuristic design. With over 5 years of experience in web development, I create immersive digital experiences that combine cutting-edge technology with stunning visuals.",
+            "details": [
+              "My journey in software development began at the University of Dhaka, where I earned my Bachelor's degree in Computer Science.",
+              "I specialize in React, Next.js, Three.js, and Node.js, with a strong focus on creating performant, accessible, and visually stunning user interfaces.",
+              "I'm passionate about staying at the forefront of web technology and constantly expanding my skillset to deliver the best possible solutions."
+            ],
+            "personalInfo": [
+              {
+                "label": "Location",
+                "value": "Feni, Bangladesh"
+              },
+              {
+                "label": "Email",
+                "value": "abir@example.com"
+              },
+              {
+                "label": "Experience",
+                "value": "5+ Years"
+              },
+              {
+                "label": "Availability",
+                "value": "Freelance / Full-time"
+              }
+            ],
+            "features": [
+              {
+                "icon": "Code",
+                "title": "Clean Code",
+                "description": "Writing elegant, maintainable, and efficient code is my core philosophy."
+              },
+              {
+                "icon": "Cpu",
+                "title": "AI Integration",
+                "description": "Implementing cutting-edge AI solutions in modern applications."
+              },
+              {
+                "icon": "Globe",
+                "title": "Web Expert",
+                "description": "Specializing in modern web technologies and frameworks."
+              },
+              {
+                "icon": "Rocket",
+                "title": "Performance",
+                "description": "Optimizing for speed, accessibility, and exceptional user experience."
+              }
+            ]
+          },
+          "description": "<p style=\"text-align: left\">I'm a passionate software engineer who loves cyberpunk aesthetics and futuristic design. With over 5 years of experience in web development, I create immersive digital experiences that combine cutting-edge technology with stunning visuals.</p><p style=\"text-align: left\">My journey in software development began at the University of Dhaka, where I earned my Bachelor's degree in Computer Science.</p><p style=\"text-align: left\">I specialize in React, Next.js, Three.js, and Node.js, with a strong focus on creating performant, accessible, and visually stunning user interfaces.</p><p style=\"text-align: left\">I'm passionate about staying at the forefront of web technology and constantly expanding my skillset to deliver the best possible solutions.</p>",
+          "personalInfo": [
+            {
+              "label": "Location",
+              "value": "Feni, Bangladesh"
+            },
+            {
+              "label": "Email",
+              "value": "abir@example.com"
+            },
+            {
+              "label": "Experience",
+              "value": "5+ Years"
+            },
+            {
+              "label": "Availability",
+              "value": "Freelance / Full-time"
+            }
+          ],
+          "features": [
+            {
+              "icon": "Code",
+              "title": "Clean Code",
+              "description": "Writing elegant, maintainable, and efficient code is my core philosophy."
+            },
+            {
+              "icon": "Cpu",
+              "title": "AI Integration",
+              "description": "Implementing cutting-edge AI solutions in modern applications."
+            },
+            {
+              "icon": "Globe",
+              "title": "Web Expert",
+              "description": "Specializing in modern web technologies and frameworks."
+            },
+            {
+              "icon": "Rocket",
+              "title": "Performance",
+              "description": "Optimizing for speed, accessibility, and exceptional user experience."
+            }
+          ]
+        },
+        "description": "<p style=\"text-align: left\">I'm a passionate software engineer who loves cyberpunk aesthetics and futuristic design. With over 5 years of experience in web development, I create immersive digital experiences that combine cutting-edge technology with stunning visuals.</p><p style=\"text-align: left\"></p><p style=\"text-align: left\">My journey in software development began at the University of Dhaka, where I earned my Bachelor's degree in Computer Science.</p><p style=\"text-align: left\"></p><p style=\"text-align: left\">I specialize in React, Next.js, Three.js, and Node.js, with a strong focus on creating performant, accessible, and visually stunning user interfaces.</p><p style=\"text-align: left\"></p><p style=\"text-align: left\">I'm passionate about staying at the forefront of web technology and constantly expanding my skillset to deliver the best possible solutions.</p>",
+        "personalInfo": [
+          {
+            "label": "Location",
+            "value": "Feni, Bangladesh"
+          },
+          {
+            "label": "Email",
+            "value": "abir@example.com"
+          },
+          {
+            "label": "Experience",
+            "value": "5+ Years"
+          },
+          {
+            "label": "Availability",
+            "value": "Freelance / Full-time"
+          }
+        ],
+        "features": [
+          {
+            "icon": "Code",
+            "title": "Clean Code",
+            "description": "Writing elegant, maintainable, and efficient code is my core philosophy."
+          },
+          {
+            "icon": "Cpu",
+            "title": "AI Integration",
+            "description": "Implementing cutting-edge AI solutions in modern applications."
+          },
+          {
+            "icon": "Globe",
+            "title": "Web Expert",
+            "description": "Specializing in modern web technologies and frameworks."
+          },
+          {
+            "icon": "Rocket",
+            "title": "Performance",
+            "description": "Optimizing for speed, accessibility, and exceptional user experience."
+          }
+        ]
+      },
+      "description": "<p style=\"text-align: left\">I'm a passionate software engineer who loves cyberpunk aesthetics and futuristic design. With over 5 years of experience in web development, I create immersive digital experiences that combine cutting-edge technology with stunning visuals.</p><p style=\"text-align: left\">&lt;br/&gt;</p><p style=\"text-align: left\">My journey in software development began at the University of Dhaka, where I earned my Bachelor's degree in Computer Science.</p><p style=\"text-align: left\">&lt;br/&gt;</p><p style=\"text-align: left\">I specialize in React, Next.js, Three.js, and Node.js, with a strong focus on creating performant, accessible, and visually stunning user interfaces.</p><p style=\"text-align: left\">&lt;br/&gt;</p><p style=\"text-align: left\">I'm passionate about staying at the forefront of web technology and constantly expanding my skillset to deliver the best possible solutions.</p>",
+      "personalInfo": [
+        {
+          "label": "Location",
+          "value": "Feni, Bangladesh"
+        },
+        {
+          "label": "Email",
+          "value": "abir@example.com"
+        },
+        {
+          "label": "Experience",
+          "value": "5+ Years"
+        },
+        {
+          "label": "Availability",
+          "value": "Freelance / Full-time"
+        }
+      ],
+      "features": [
+        {
+          "icon": "Code",
+          "title": "Clean Code",
+          "description": "Writing elegant, maintainable, and efficient code is my core philosophy."
+        },
+        {
+          "icon": "Cpu",
+          "title": "AI Integration",
+          "description": "Implementing cutting-edge AI solutions in modern applications."
+        },
+        {
+          "icon": "Globe",
+          "title": "Web Expert",
+          "description": "Specializing in modern web technologies and frameworks."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Performance",
+          "description": "Optimizing for speed, accessibility, and exceptional user experience."
+        }
+      ]
+    },
+    "description": "<p style=\"text-align: left\">I'm a passionate software engineer who loves cyberpunk aesthetics and futuristic design. With over 5 years of experience in web development, I create immersive digital experiences that combine cutting-edge technology with stunning visuals.</p><p style=\"text-align: left\">My journey in software development began at the University of Dhaka, where I earned my Bachelor's degree in Computer Science.</p><p style=\"text-align: left\">I specialize in React, Next.js, Three.js, and Node.js, with a strong focus on creating performant, accessible, and visually stunning user interfaces.</p><p style=\"text-align: left\">I'm passionate about staying at the forefront of web technology and constantly expanding my skillset to deliver the best possible solutions.</p>",
+    "personalInfo": [
+      {
+        "label": "Location",
+        "value": "Feni, Bangladesh"
+      },
+      {
+        "label": "Email",
+        "value": "abir@example.com"
+      },
+      {
+        "label": "Experience",
+        "value": "5+ Years"
+      },
+      {
+        "label": "Availability",
+        "value": "Freelance / Full-time"
+      }
+    ],
+    "features": [
+      {
+        "icon": "Code",
+        "title": "Clean Code",
+        "description": "Writing elegant, maintainable, and efficient code is my core philosophy."
+      },
+      {
+        "icon": "Cpu",
+        "title": "AI Integration",
+        "description": "Implementing cutting-edge AI solutions in modern applications."
+      },
+      {
+        "icon": "Globe",
+        "title": "Web Expert",
+        "description": "Specializing in modern web technologies and frameworks."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Performance",
+        "description": "Optimizing for speed, accessibility, and exceptional user experience."
+      }
+    ]
+  },
+  "education": {
+    "item": {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Dhaka",
+      "location": "Dhaka, Bangladesh",
+      "period": "2015 - 2019",
+      "description": "Graduated with honors, focusing on algorithms, data structures, and web development. Participated in competitive programming contests and led the university's web development club.",
+      "cgpa": "3.8/4.0",
+      "achievements": [
+        {
+          "icon": "BookOpen",
+          "title": "Dean's List",
+          "description": "Academic Excellence"
+        },
+        {
+          "icon": "Code",
+          "title": "Hackathon Winner",
+          "description": "University Tech Fest"
+        },
+        {
+          "icon": "Lightbulb",
+          "title": "Research Project",
+          "description": "AI in Web Applications"
+        },
+        {
+          "icon": "Zap",
+          "title": "Club Leader",
+          "description": "Web Development Club"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Algorithms & Data Structures",
+          "icon": "Code"
+        },
+        {
+          "name": "Web Development",
+          "icon": "Globe"
+        },
+        {
+          "name": "Database Systems",
+          "icon": "Database"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "icon": "Cpu"
+        },
+        {
+          "name": "Computer Networks",
+          "icon": "Network"
+        },
+        {
+          "name": "Software Engineering",
+          "icon": "Settings"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Advanced React Patterns",
+          "provider": "Frontend Masters",
+          "year": "2021",
+          "icon": "Code"
+        },
+        {
+          "name": "Machine Learning Fundamentals",
+          "provider": "Coursera",
+          "year": "2020",
+          "icon": "Cpu"
+        },
+        {
+          "name": "UI/UX Design Principles",
+          "provider": "Interaction Design Foundation",
+          "year": "2022",
+          "icon": "Palette"
+        }
+      ]
+    },
+    "degree": "Bachelor of Science in Computer Science",
+    "institution": "University of Dhaka",
+    "location": "Dhaka, Bangladesh",
+    "period": "2015 - 2019",
+    "description": "Graduated with honors, focusing on algorithms, data structures, and web development. Participated in competitive programming contests and led the university's web development club.",
+    "cgpa": "3.8/4.0",
+    "achievements": [
+      {
+        "icon": "BookOpen",
+        "title": "Dean's List",
+        "description": "Academic Excellence"
+      },
+      {
+        "icon": "Code",
+        "title": "Hackathon Winner",
+        "description": "University Tech Fest"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Research Project",
+        "description": "AI in Web Applications"
+      },
+      {
+        "icon": "Zap",
+        "title": "Club Leader",
+        "description": "Web Development Club"
+      }
+    ],
+    "subjects": [
+      {
+        "name": "Algorithms & Data Structures",
+        "icon": "Code"
+      },
+      {
+        "name": "Web Development",
+        "icon": "Globe"
+      },
+      {
+        "name": "Database Systems",
+        "icon": "Database"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "icon": "Cpu"
+      },
+      {
+        "name": "Computer Networks",
+        "icon": "Network"
+      },
+      {
+        "name": "Software Engineering",
+        "icon": "Settings"
+      }
+    ],
+    "courses": [
+      {
+        "name": "Advanced React Patterns",
+        "provider": "Frontend Masters",
+        "year": "2021",
+        "icon": "Code"
+      },
+      {
+        "name": "Machine Learning Fundamentals",
+        "provider": "Coursera",
+        "year": "2020",
+        "icon": "Cpu"
+      },
+      {
+        "name": "UI/UX Design Principles",
+        "provider": "Interaction Design Foundation",
+        "year": "2022",
+        "icon": "Zap"
+      }
+    ]
+  },
+  "career_summary": {
+    "description": "My career path showcases my growth from a junior developer to a senior position, with a focus on creating exceptional digital experiences."
+  },
+  "experience": [
+    {
+      "id": "1",
+      "position": "Senior Frontend Developer",
+      "company": "TechNova Solutions",
+      "location": "Dhaka, Bangladesh",
+      "period": "2021 - Present",
+      "description": "Leading the frontend development team in creating cutting-edge web applications using React, Next.js, and Three.js. Implemented CI/CD pipelines and improved performance by 40%.",
+      "responsibilities": [
+        "Architected and developed scalable frontend solutions for enterprise clients",
+        "Mentored junior developers and conducted code reviews",
+        "Implemented design systems and component libraries",
+        "Collaborated with UX/UI designers to create intuitive user interfaces"
+      ]
+    },
+    {
+      "id": "2",
+      "position": "Full Stack Developer",
+      "company": "Digital Dynamics",
+      "location": "Chittagong, Bangladesh",
+      "period": "2019 - 2021",
+      "description": "Developed full-stack web applications using MERN stack. Created RESTful APIs and implemented authentication systems. Worked closely with clients to gather requirements and deliver solutions.",
+      "responsibilities": [
+        "Built and maintained RESTful APIs using Node.js and Express",
+        "Developed responsive frontends with React and Redux",
+        "Implemented database schemas and queries using MongoDB",
+        "Deployed applications to AWS and managed infrastructure"
+      ]
+    },
+    {
+      "id": "3",
+      "position": "Junior Web Developer",
+      "company": "WebCraft Studios",
+      "location": "Feni, Bangladesh",
+      "period": "2016 - 2019",
+      "description": "Started as an intern and quickly progressed to a junior developer role. Worked on various client projects, focusing on frontend development with HTML, CSS, JavaScript, and jQuery.",
+      "responsibilities": [
+        "Developed responsive websites for small to medium businesses",
+        "Implemented UI designs from Figma and Adobe XD",
+        "Optimized website performance and SEO",
+        "Collaborated with the design team to improve user experience"
+      ]
+    }
+  ],
+  "skills_categories": [
+    {
+      "id": "frontend",
+      "name": "Frontend",
+      "icon": "Code"
+    },
+    {
+      "id": "backend",
+      "name": "Backend",
+      "icon": "Server"
+    },
+    {
+      "id": "database",
+      "name": "Database",
+      "icon": "Database"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps",
+      "icon": "Cpu"
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "icon": "Palette"
+    }
+  ],
+  "skills_technologies": [
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "category": "language",
+      "icon": "Globe"
+    },
+    {
+      "id": 2,
+      "name": "TypeScript",
+      "category": "language",
+      "icon": "Code"
+    },
+    {
+      "id": 3,
+      "name": "HTML5",
+      "category": "frontend",
+      "icon": "Code"
+    },
+    {
+      "id": 4,
+      "name": "CSS3",
+      "category": "frontend",
+      "icon": "Palette"
+    },
+    {
+      "id": 5,
+      "name": "React",
+      "category": "frontend",
+      "icon": "Code"
+    },
+    {
+      "id": 6,
+      "name": "Next.js",
+      "category": "frontend",
+      "icon": "Server"
+    },
+    {
+      "id": 7,
+      "name": "Vue.js",
+      "category": "frontend",
+      "icon": "Layers"
+    },
+    {
+      "id": 8,
+      "name": "Angular",
+      "category": "frontend",
+      "icon": "Code"
+    },
+    {
+      "id": 9,
+      "name": "Node.js",
+      "category": "backend",
+      "icon": "Server"
+    },
+    {
+      "id": 10,
+      "name": "Express",
+      "category": "backend",
+      "icon": "Server"
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "id": "frontend",
+        "title": "Frontend",
+        "icon": "Code",
+        "description": "Building responsive and interactive user interfaces with modern frameworks and libraries."
+      },
+      {
+        "id": "backend",
+        "title": "Backend",
+        "icon": "Server",
+        "description": "Developing robust server-side applications and APIs to power web applications."
+      },
+      {
+        "id": "database",
+        "title": "Database",
+        "icon": "Database",
+        "description": "Managing and optimizing databases for efficient data storage and retrieval."
+      },
+      {
+        "id": "devops",
+        "title": "DevOps",
+        "icon": "Cpu",
+        "description": "Implementing CI/CD pipelines and managing cloud infrastructure for seamless deployment."
+      },
+      {
+        "id": "design",
+        "title": "Design",
+        "icon": "Palette",
+        "description": "Creating visually appealing and user-friendly interfaces with a focus on UX/UI principles."
+      }
+    ],
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "category": "language",
+        "icon": "Globe"
+      },
+      {
+        "name": "TypeScript",
+        "category": "language",
+        "icon": "Code"
+      },
+      {
+        "name": "HTML5",
+        "category": "frontend",
+        "icon": "Code"
+      },
+      {
+        "name": "CSS3",
+        "category": "frontend",
+        "icon": "Palette"
+      },
+      {
+        "name": "React",
+        "category": "frontend",
+        "icon": "Code"
+      },
+      {
+        "name": "Next.js",
+        "category": "frontend",
+        "icon": "Server"
+      },
+      {
+        "name": "Vue.js",
+        "category": "frontend",
+        "icon": "Layers"
+      },
+      {
+        "name": "Angular",
+        "category": "frontend",
+        "icon": "Code"
+      },
+      {
+        "name": "Node.js",
+        "category": "backend",
+        "icon": "Server"
+      },
+      {
+        "name": "Express",
+        "category": "backend",
+        "icon": "Server"
+      },
+      {
+        "name": "GraphQL",
+        "category": "backend",
+        "icon": "Database"
+      },
+      {
+        "name": "REST API",
+        "category": "backend",
+        "icon": "Globe"
+      },
+      {
+        "name": "MongoDB",
+        "category": "database",
+        "icon": "Database"
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "database",
+        "icon": "Database"
+      },
+      {
+        "name": "MySQL",
+        "category": "database",
+        "icon": "Database"
+      },
+      {
+        "name": "Redis",
+        "category": "database",
+        "icon": "Database"
+      },
+      {
+        "name": "Docker",
+        "category": "devops",
+        "icon": "Cpu"
+      },
+      {
+        "name": "Kubernetes",
+        "category": "devops",
+        "icon": "Cpu"
+      },
+      {
+        "name": "AWS",
+        "category": "devops",
+        "icon": "Cloud"
+      },
+      {
+        "name": "GCP",
+        "category": "devops",
+        "icon": "Cloud"
+      },
+      {
+        "name": "CI/CD",
+        "category": "devops",
+        "icon": "GitBranch"
+      },
+      {
+        "name": "Git",
+        "category": "tools",
+        "icon": "GitBranch"
+      },
+      {
+        "name": "GitHub",
+        "category": "tools",
+        "icon": "GitBranch"
+      },
+      {
+        "name": "Webpack",
+        "category": "tools",
+        "icon": "Cpu"
+      },
+      {
+        "name": "Vite",
+        "category": "tools",
+        "icon": "Zap"
+      },
+      {
+        "name": "Jest",
+        "category": "testing",
+        "icon": "Terminal"
+      },
+      {
+        "name": "Cypress",
+        "category": "testing",
+        "icon": "Terminal"
+      },
+      {
+        "name": "Storybook",
+        "category": "tools",
+        "icon": "Layers"
+      },
+      {
+        "name": "Figma",
+        "category": "design",
+        "icon": "Figma"
+      },
+      {
+        "name": "Tailwind CSS",
+        "category": "frontend",
+        "icon": "Palette"
+      },
+      {
+        "name": "SASS",
+        "category": "frontend",
+        "icon": "Palette"
+      },
+      {
+        "name": "Framer Motion",
+        "category": "frontend",
+        "icon": "Smartphone"
+      },
+      {
+        "name": "Three.js",
+        "category": "frontend",
+        "icon": "Layers"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Neon City Dashboard",
+      "description": "A futuristic admin dashboard with data visualization and real-time updates. Features include interactive charts, user management, and a customizable interface.",
+      "image": "/placeholder.svg?height=600&width=800",
+      "category": "web",
+      "tags": ["React", "Three.js", "D3.js"],
+      "demoUrl": "https://claude.ai/chat/f046954d-8793-4dad-9e0e-b456db71fbe4",
+      "repoUrl": "https://claude.ai/chat/f046954d-8793-4dad-9e0e-b456db71fbe4",
+      "features": [
+        "Real-time data visualization with WebSockets",
+        "3D interactive elements using Three.js",
+        "Responsive design for all device sizes",
+        "Dark and light mode with cyberpunk aesthetics"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Cyberpunk 3D Portfolio",
+      "description": "An interactive 3D portfolio website with WebGL effects and immersive experience. Showcases projects in a virtual 3D space that users can navigate through.",
+      "image": "/placeholder.svg?height=600&width=800",
+      "category": "3d",
+      "tags": ["Three.js", "React Three Fiber", "GLSL", "Framer Motion"],
+      "demoUrl": "https://claude.ai/chat/f046954d-8793-4dad-9e0e-b456db71fbe4",
+      "repoUrl": "https://claude.ai/chat/f046954d-8793-4dad-9e0e-b456db71fbe4",
+      "features": [
+        "Interactive 3D environment built with React Three Fiber",
+        "Custom GLSL shaders for visual effects",
+        "Optimized performance with instanced meshes",
+        "Accessible fallback for devices without WebGL supportddd",
+        "new feat"
+      ]
+    },
+    {
+      "id": "43e0",
+      "title": "Neural Network Visualizer",
+      "description": "An interactive visualization of neural networks with real-time training data. Allows users to create, train, and visualize neural networks in the browser.",
+      "image": [
+        {
+          "path": "./491352127_650837394379633_7028590397560863587_n.jpg",
+          "relativePath": "./491352127_650837394379633_7028590397560863587_n.jpg",
+          "preview": "blob:http://localhost:5173/3c5052ef-0b3c-4b01-9229-fe2ef35be006"
+        }
+      ],
+      "category": "web",
+      "tags": ["WebGL", "D3.js", "TensorFlow.js"],
+      "demoUrl": "https://claude.ai/chat/f046954d-8793-4dad-9e0e-b456db71fbe4",
+      "repoUrl": "https://claude.ai/chat/f046954d-8793-4dad-9e0e-b456db71fbe4",
+      "features": ["sfsfsfsfs"]
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "title": "Building Immersive 3D Experiences with Three.js and React",
+      "excerpt": "Learn how to create stunning 3D web experiences by combining the power of Three.js and React. This tutorial covers everything from basic scene setup to advanced animation techniques.",
+      "date": "May 10, 2024",
+      "readTime": "8 min read",
+      "author": "Abir",
+      "category": "Web Development",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": "2",
+      "title": "Optimizing React Applications for Performance",
+      "excerpt": "Discover practical techniques to improve the performance of your React applications, from code splitting to memoization and efficient state management.",
+      "date": "April 22, 2024",
+      "readTime": "6 min read",
+      "author": "Abir",
+      "category": "Performance",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": "3",
+      "title": "The Future of Web Development: AI Integration",
+      "excerpt": "Explore how artificial intelligence is transforming web development and how you can leverage AI tools to enhance your development workflow.",
+      "date": "March 15, 2024",
+      "readTime": "10 min read",
+      "author": "Abir",
+      "category": "AI",
+      "image": "/placeholder.svg?height=400&width=600"
+    }
+  ],
+  "contact": {
+    "email": "abir@example.com",
+    "phone": "+880 123 456 7890",
+    "location": "Feni, Bangladesh",
+    "availability": "Monday - Friday, 9AM - 6PM",
+    "socialLinks": [
+      {
+        "title": "GitHub",
+        "url": "https://github.com",
+        "icon": "Github",
+        "iconType": "lucide"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "Linkedin",
+        "iconType": "lucide"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com",
+        "icon": "Twitter",
+        "iconType": "lucide"
+      }
+    ]
+  }
+}
